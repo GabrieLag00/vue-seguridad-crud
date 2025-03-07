@@ -23,6 +23,7 @@
     "motion": "^12.4.1",
     "pinia": "^2.3.1",
     "radix-vue": "^1.9.13",
+    "sweetalert2": "^11.17.2",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7",
     "vee-validate": "^4.15.0",
